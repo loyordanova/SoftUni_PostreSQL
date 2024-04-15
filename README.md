@@ -13,14 +13,15 @@ This repository contains materials for learning PostgreSQL, an open-source relat
 <strong>Overview</strong>
 
 
-<div  align="center">
-- Introduction to PostgreSQL and its data types
-- Working with tables: creation, modification, and deletion
-- Basic CRUD operations (Create, Read, Update, Delete)
-- Utilizing built-in functions for data manipulation
-- Aggregating data using PostgreSQL functions
-- Establishing table relationships: primary keys, foreign keys, and joins
-- Advanced SQL techniques: subqueries and JOINs
-- Database programmability: creating functions and procedures
-- Transaction management in PostgreSQL
+<div align="center">
+  - Introduction to PostgreSQL and its data types <br>
+  - Working with tables: creation, modification, and deletion <br>
+  - Basic CRUD operations (Create, Read, Update, Delete) <br>
+  - Utilizing built-in functions for data manipulation <br>
+  - Aggregating data using PostgreSQL functions <br>
+  - Establishing table relationships: primary keys, foreign keys, and joins <br>
+  - Advanced SQL techniques: subqueries and JOINs <br>
+  - Database programmability: creating functions and procedures <br>
+  - Transaction management in PostgreSQL
+</div>
 
