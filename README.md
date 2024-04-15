@@ -14,6 +14,7 @@ This repository contains materials for learning PostgreSQL, an open-source relat
 
 
 <div align="center" style="text-align: left;">
+<div style="text-align: left;">
   <div>- Introduction to PostgreSQL and its data types</div>
   <div>- Working with tables: creation, modification, and deletion</div>
   <div>- Basic CRUD operations (Create, Read, Update, Delete)</div>
