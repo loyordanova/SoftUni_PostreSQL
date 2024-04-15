@@ -1,18 +1,19 @@
-<center>
-# PostgreSQL SoftUni Course
-</center>
+<div  align="center">
+<strong>PostgreSQL SoftUni Course</strong>
+
 
 ---
 
+<div  align="center">
 This repository contains materials for learning PostgreSQL, an open-source relational database management system. 
 
 ---
 
-<center>
-## Overview
-</center>
+<div  align="center">
+<strong>Overview</strong>strong>
 
-alain center
+
+<div  align="center">
 - Introduction to PostgreSQL and its data types
 - Working with tables: creation, modification, and deletion
 - Basic CRUD operations (Create, Read, Update, Delete)
