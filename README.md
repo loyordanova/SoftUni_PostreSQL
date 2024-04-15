@@ -1,5 +1,5 @@
 <div  align="center">
-<strong>PostgreSQL SoftUni Course</strong>
+<strong>🐘PostgreSQL SoftUni Course🐘</strong>
 
 
 ---
@@ -10,7 +10,7 @@ This repository contains materials for learning PostgreSQL, an open-source relat
 ---
 
 <div  align="center">
-<strong>Overview</strong>strong>
+<strong>Overview</strong>
 
 
 <div  align="center">
